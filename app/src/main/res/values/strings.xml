@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DailyPug</string>
+
+    <string name="toast_success">Wallpaper has been set!</string>
+    <string name="toast_failure">Wallpaper has been reset to default</string>
+
+
+    <string name="switch_button">Pugs</string>
+</resources>
